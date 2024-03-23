@@ -1,24 +1,29 @@
-![A passionate frontend developer from Bangladesh](https://scontent.fdac160-1.fna.fbcdn.net/v/t39.30808-6/411149078_1753651651798916_581520042161494942_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEZUugHWJYdQPmkO71DaIA247I9_J3X9wbjsj38ndf3BrteSBZBVPrwsjRHhKptsdN2ZsBI94BFJmvyDhKQ6NYv&_nc_ohc=5Z-42mAfOmcAX9ovgjr&_nc_ht=scontent.fdac160-1.fna&oh=00_AfDFp8pylaUAIZz29iZ1c8dBdMa2n5p8NV9HaYkHojhc1A&oe=66051F85)
+<h1 align="center">Hi 👋, I'm Aminul Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-### Hi there 👋, I'm Aminul Islam
-#### A passionate frontend developer from Bangladesh
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminul-cse&label=Profile%20views&color=0e75b6&style=flat" alt="aminul-cse" /> </p>
 
-Passionate beginner in frontend programming, eager to learn and contribute. Dedicated to crafting engaging user experiences and mastering modern web technologies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminul-cse" alt="aminul-cse" /></a> </p>
 
-Skills: C / C++ / HTML / TAILWIND CSS / ANGULAR / JAVASCRIPT
+- 🌱 I’m currently learning **Angular17,JavaScript**
 
-- 🌱 I’m currently learning ANGULAR17 , JAVASCRIPT 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: aminulcse2023@gmail.com 
+- 👨‍💻 All of my projects are available at [aminul-cse.github.io](aminul-cse.github.io)
 
+- 💬 Ask me about **Web Development**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aminul-cse)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **aminulcse2023@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminul-cse)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/aminul-islam-aa55b8292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aminul-islam-aa55b8292" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/aminulislam2002?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aminulislam2002?mibextid=zbwkwl" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminul-cse&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/aminul-cse)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-cse&show_icons=true&locale=en&layout=compact" alt="aminul-cse" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aminul-cse)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-cse&show_icons=true&locale=en" alt="aminul-cse" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-cse&" alt="aminul-cse" /></p>
