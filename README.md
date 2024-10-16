@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-  <img src="./profile.jpeg" alt="profile image" width="600" height="700">
+  <img src="./profile.jpeg" alt="profile image" width="400" height="400">
 </p>
 
 - Portfolio <a href="https://aminul-cse.github.io/">**aminul-cse.github.io**</7a>
