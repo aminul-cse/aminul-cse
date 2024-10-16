@@ -3,8 +3,9 @@
  Angular. I’m focused on expanding my skills in backend development to become a full-stack developer. I am
  passionate about building responsive, user-friendly web applications and continuously improving my craft.</h3>
 
+<img src="./ForPOrtfolio.png">
 
-- Portfolio <a href="https://aminul-cse.github.io/" target="blank">**aminul-cse.github.io**</a>
+- Portfolio <a href="https://aminul-cse.github.io/">**aminul-cse.github.io**</a>
 - Email **aminulcse2023@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
