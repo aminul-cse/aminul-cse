@@ -21,11 +21,7 @@
 <a href="https://instagram.com/aminul.islam.412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminul.islam.412" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminul-cse" alt="aminul-cse" /></a> </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-cse&show_icons=true&locale=en&layout=compact" alt="aminul-cse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-cse&show_icons=true&locale=en" alt="aminul-cse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-cse&" alt="aminul-cse" /></p>
