@@ -6,7 +6,7 @@
 <p align="left"> <img src="	https://avatars.githubusercontent.com/u/136992554?…00&u=6fe73801b453f3377a67035d13aff3ecd6ba27ab&v=4" alt="aminul-cse" /> </p>
 
 
-- Portfolio <a href="aminul-cse.github.io">**aminul-cse.github.io**</a>
+- Portfolio <a href="[aminul-cse.github.io](https://aminul-cse.github.io/)">**aminul-cse.github.io**</a>
 - Email **aminulcse2023@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
