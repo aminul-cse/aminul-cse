@@ -1,5 +1,5 @@
 <h1 align="center">Aminul Islam</h1>
-<h3 align="center">I am a skilled Frontend Developer with expertise in HTML, CSS, SCSS, and TailwindCSS, along with basic experience in
+<h3 align="center">skilled Frontend Developer with expertise in HTML, CSS, SCSS, and TailwindCSS, along with basic experience in
  Angular. I’m focused on expanding my skills in backend development to become a full-stack developer. I am
  passionate about building responsive, user-friendly web applications and continuously improving my craft.</h3>
 
