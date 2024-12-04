@@ -1,13 +1,3 @@
-<h1 align="center">Aminul Islam</h1>
-<h3 align="center">skilled Frontend Developer with expertise in HTML, CSS, SCSS, and TailwindCSS, along with basic experience in
- Angular. I’m focused on expanding my skills in backend development to become a full-stack developer. I am
- passionate about building responsive, user-friendly web applications and continuously improving my craft.</h3>
-
-<br>
-<p align="center">
-  <img src="./profile.jpeg" alt="profile image" width="400" height="420">
-</p>
-
 - Portfolio <a href="https://aminul-cse.github.io/">**aminul-cse.github.io**</a>
 - Email **aminulcse2023@gmail.com**
 
