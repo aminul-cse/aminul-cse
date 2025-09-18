@@ -30,15 +30,6 @@ Creative and detail-oriented front-end developer with a strong background in bui
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminul-cse&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminul-cse&layout=compact&theme=tokyonight" alt="Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aminul-cse&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
----
 
 ### 🌍 Connect With Me
 
